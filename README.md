@@ -86,7 +86,7 @@ Want to add a framework or challenge an assessment? See [CONTRIBUTING.md](CONTRI
 Drogou, O. (2026). *Séparation Solid/Liquid dans les Architectures d'Agents IA.*
 
 - [Article series on Substack](https://mcflyresearch.substack.com)
-- [Valve runtime](https://github.com/VALVE_REPO_LINK)
+- [Valve runtime](https://github.com/OlivierDrogou/valve)
 - [CORE — constitutional governance](https://github.com/DariuszNewecki/CORE)
 
 ## License
